@@ -1,3 +1,3 @@
-## Algorithmic Fairness, Accountability and Ethics Exam
+## Fairness and Ethics in Hospital Re-Admission Prediction
 
-Fairness & Ethics In Hospital Re-Admission Prediction.
+Anders Hjulmand, Andreas Flensted, Eisuke Okuda.
